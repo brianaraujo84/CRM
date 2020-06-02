@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/hakancampanias/static/css/main.1c2dcec6.chunk.css",
+    "main.js": "/hakancampanias/static/js/main.dbd15fc2.chunk.js",
+    "runtime-main.js": "/hakancampanias/static/js/runtime-main.7729963c.js",
+    "static/css/2.120286ad.chunk.css": "/hakancampanias/static/css/2.120286ad.chunk.css",
+    "static/js/2.25dbd341.chunk.js": "/hakancampanias/static/js/2.25dbd341.chunk.js",
+    "static/js/3.f9fb37d3.chunk.js": "/hakancampanias/static/js/3.f9fb37d3.chunk.js",
+    "static/js/4.e7c655d4.chunk.js": "/hakancampanias/static/js/4.e7c655d4.chunk.js",
+    "static/js/5.d2eddf79.chunk.js": "/hakancampanias/static/js/5.d2eddf79.chunk.js",
+    "static/js/6.0cf04c9d.chunk.js": "/hakancampanias/static/js/6.0cf04c9d.chunk.js",
+    "static/js/7.869d13c3.chunk.js": "/hakancampanias/static/js/7.869d13c3.chunk.js",
+    "static/js/8.868ae966.chunk.js": "/hakancampanias/static/js/8.868ae966.chunk.js",
+    "static/js/9.a38a596e.chunk.js": "/hakancampanias/static/js/9.a38a596e.chunk.js",
+    "index.html": "/hakancampanias/index.html",
+    "precache-manifest.feb739336afc3fae53b604b388548fc7.js": "/hakancampanias/precache-manifest.feb739336afc3fae53b604b388548fc7.js",
+    "service-worker.js": "/hakancampanias/service-worker.js",
+    "static/js/2.25dbd341.chunk.js.LICENSE.txt": "/hakancampanias/static/js/2.25dbd341.chunk.js.LICENSE.txt",
+    "static/js/3.f9fb37d3.chunk.js.LICENSE.txt": "/hakancampanias/static/js/3.f9fb37d3.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/hakancampanias/static/media/muli-latin-900italic.fb9b3ba4.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7729963c.js",
+    "static/css/2.120286ad.chunk.css",
+    "static/js/2.25dbd341.chunk.js",
+    "static/css/main.1c2dcec6.chunk.css",
+    "static/js/main.dbd15fc2.chunk.js"
+  ]
+}
